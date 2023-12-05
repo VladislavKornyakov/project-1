@@ -1,7 +1,2 @@
-let number = 5;
-const leftBorderWidth = 1;
-number = 10;
-console.log(number);
-var name = 'Ivan';
-
-
+let numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели');
+console.log(numberOfFilms);
